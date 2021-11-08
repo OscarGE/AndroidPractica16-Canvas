@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica16_Canvas</string>
+    <string name="canvasContentDescription">Este es un miniPaint.
+    Arrastra tu dedo para dibujar y gira la pantalla para borrar.</string>
+</resources>
